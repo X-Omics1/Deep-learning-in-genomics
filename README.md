@@ -63,6 +63,8 @@
 ## Reference
 
 - [Ultrasensitive detection of circulating tumour DNA via deep methylation sequencing aided by machine learning](https://www.nature.com/articles/s41551-021-00746-5) and Codes and scripts developed for this study are available at [mworkflow](http://github.com/bnr-ed/mworkflow).
+- [Deep learning modeling m6A deposition reveals the importance of downstream cis-element sequences](https://www.nature.com/articles/s41467-022-30209-7)
+- [A deep learning framework to predict binding preference of RNA constituents on protein surface](https://www.nature.com/articles/s41467-019-12920-0)
 
 
 
